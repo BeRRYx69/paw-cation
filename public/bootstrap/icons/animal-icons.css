@@ -1,0 +1,29 @@
+.icon {
+    font-size: 40px;
+    display: block;
+    margin-bottom: 10px;
+}
+
+.icon-dog::before {
+    content: "🐕";
+}
+
+.icon-cat::before {
+    content: "🐱";
+}
+
+.icon-small-animal::before {
+    content: "🐹";
+}
+
+.icon-fish::before {
+    content: "🐠";
+}
+
+.icon-bird::before {
+    content: "🦜";
+}
+
+.icon-horse::before {
+    content: "🐎";
+} 
